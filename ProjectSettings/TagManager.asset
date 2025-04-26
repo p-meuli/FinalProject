@@ -8,6 +8,7 @@ TagManager:
   - stone
   - tent
   - forest-sign
+  - sheepy
   layers:
   - Default
   - TransparentFX

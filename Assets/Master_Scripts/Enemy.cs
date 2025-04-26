@@ -1,7 +1,69 @@
 using UnityEngine;
 using UnityEngine.AI;
 public class Enemy : MonoBehaviour
+{}
+  /*
+  public static event Action<Enemy> OnEnemyKiled;
+  [Serialize, Field] float health, maxHealth = 3f;
+  rigidbody3D rb;
+  Transform target;
+
+  vector3 moveDirection;
+
+  private void Awake()
+  {
+    rb = GetComponent<rigidbody3D>();
+  }
+  
+  
+  private void Start()
+  {
+    health = maxHealth;
+    target = GameObject.Find("").transform;
+  }
+
+private void Update()
 {
+    if(target)
+    {
+        Vector3 direction = (target.position - transform.position).normalized;
+        float angle = Mathf.Atan2(direction.v.direction.x) * Mathf.Rad2Deg;
+        rb.rotation = angle;
+        moveDirection = direction;
+    }
+}
+
+
+private void FixedUpdate()
+{
+    id(target);
+    {
+        rb.velocity = new Vector3(moveDirection.x, moveDirection.y) * moveSpeed;
+    }
+}
+  public void TakeDamage(float damageAmount)
+  {
+    Debug.Log($"Damage Amount: {damageAmount}");
+    health -= damageAmount;
+    Debug.Log($"Health is now: {health}");
+
+    if (health <= 0)
+    {
+        Destroy(gameObject);
+        OnEnemyKiled?.Invoke(this);
+    }
+  }
+}  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
   /*  public NavMeshAgent agent;
     public Transform player;
     public LayerMask whatIsGround, whatIsPlayer;
@@ -93,4 +155,4 @@ public class Enemy : MonoBehaviour
         
     }
     */
-}
+
