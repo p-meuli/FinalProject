@@ -9,6 +9,7 @@ TagManager:
   - tent
   - forest-sign
   - sheepy
+  - boomer
   layers:
   - Default
   - TransparentFX
