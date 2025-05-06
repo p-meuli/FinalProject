@@ -72,7 +72,7 @@ public class HealthSystemForDummies : MonoBehaviour
         DecreaseCurrentHealthBy(absoluteValue);
     }
 
-    void DecreaseCurrentHealthBy(float value)
+    public void DecreaseCurrentHealthBy(float value)
     {
         CurrentHealth -= value;
 

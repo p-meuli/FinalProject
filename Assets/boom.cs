@@ -12,7 +12,7 @@ public class boom : MonoBehaviour
     private void OnTriggerEnter(Collider other)
     {
        
-       if(other.transform.tag == "boomer") 
+       if(other.transform.tag == "Player") 
        {
         Explode();
        }
@@ -35,6 +35,13 @@ public class boom : MonoBehaviour
                 rig.AddExplosionForce(explosionForce, transform.position, radius, 2F, ForceMode.Impulse);
                 //ApplyDamage(rig.gameObject.GetComponent<Health>()); if you have a script for player health.
             } 
+            if (col.transform.tag == "Player")
+            {
+               
+               var healthy =  col.gameObject.GetComponent<HealthSystemForDummies>();
+               healthy.DecreaseCurrentHealthBy(50f);
+
+            }
         }
         Instantiate(explosionEffect, transform.position, transform.rotation);
         Destroy(gameObject);
