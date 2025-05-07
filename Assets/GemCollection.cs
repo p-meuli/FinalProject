@@ -10,7 +10,7 @@ public class GemCollection : MonoBehaviour
     {
     if(other.transform.tag == "stone")
     {
-        gem++;
+        gem += other.GetComponent<gemValue>().Value;
         GemText.text = "Gems needed: " + gem.ToString() + "/10";
         Debug.Log(gem);
         Destroy(other.gameObject);
