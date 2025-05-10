@@ -10,6 +10,8 @@ TagManager:
   - forest-sign
   - sheepy
   - boomer
+  - Bullet
+  - Enemy
   layers:
   - Default
   - TransparentFX

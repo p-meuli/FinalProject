@@ -2,15 +2,24 @@ using UnityEngine;
 
 public class EnemyShot : MonoBehaviour
 {
-    // Start is called once before the first execution of Update after the MonoBehaviour is created
-    void Start()
+//Enemy shot
+/*
+    int health = 100;
+    public void TakeDamage()
     {
-        
+    health -=50;
+    if(health <= 0)
+        Dead();
     }
-
-    // Update is called once per frame
-    void Update()
-    {
-        
-    }
+*/
+ void Dead()
+ {
+    Destroy(gameObject);
+ }
+ private void OnCollisionEnter(Collision collision)
+ {
+    if(collision.gameObject.CompareTag("Bullet"))
+    //    TakeDamage();
+    Dead();
+ }
 }
