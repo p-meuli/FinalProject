@@ -137,6 +137,10 @@ PrefabInstance:
     serializedVersion: 3
     m_TransformParent: {fileID: 220014903}
     m_Modifications:
+    - target: {fileID: 1877831767736680730, guid: f32fc89859f16ec49bc857008a5ed9c5, type: 3}
+      propertyPath: player
+      value: 
+      objectReference: {fileID: 409948906}
     - target: {fileID: 6517686061769116559, guid: f32fc89859f16ec49bc857008a5ed9c5, type: 3}
       propertyPath: m_Name
       value: SK_Sheep_white (22)
@@ -986,6 +990,10 @@ PrefabInstance:
     serializedVersion: 3
     m_TransformParent: {fileID: 220014903}
     m_Modifications:
+    - target: {fileID: 1877831767736680730, guid: f32fc89859f16ec49bc857008a5ed9c5, type: 3}
+      propertyPath: player
+      value: 
+      objectReference: {fileID: 409948906}
     - target: {fileID: 6517686061769116559, guid: f32fc89859f16ec49bc857008a5ed9c5, type: 3}
       propertyPath: m_Name
       value: SK_Sheep_white (11)
@@ -1278,6 +1286,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: SK_Sheep_cream (5)
       objectReference: {fileID: 0}
+    - target: {fileID: 7679357242106111862, guid: d4d6ee78313566d4fb5c9a6ce2e66e80, type: 3}
+      propertyPath: player
+      value: 
+      objectReference: {fileID: 409948906}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -2217,6 +2229,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: SK_Sheep_cream (18)
       objectReference: {fileID: 0}
+    - target: {fileID: 7679357242106111862, guid: d4d6ee78313566d4fb5c9a6ce2e66e80, type: 3}
+      propertyPath: player
+      value: 
+      objectReference: {fileID: 409948906}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -2612,6 +2628,10 @@ PrefabInstance:
     serializedVersion: 3
     m_TransformParent: {fileID: 220014903}
     m_Modifications:
+    - target: {fileID: 1877831767736680730, guid: f32fc89859f16ec49bc857008a5ed9c5, type: 3}
+      propertyPath: player
+      value: 
+      objectReference: {fileID: 409948906}
     - target: {fileID: 6517686061769116559, guid: f32fc89859f16ec49bc857008a5ed9c5, type: 3}
       propertyPath: m_Name
       value: SK_Sheep_white (6)
@@ -2860,6 +2880,10 @@ PrefabInstance:
     serializedVersion: 3
     m_TransformParent: {fileID: 220014903}
     m_Modifications:
+    - target: {fileID: 1877831767736680730, guid: f32fc89859f16ec49bc857008a5ed9c5, type: 3}
+      propertyPath: player
+      value: 
+      objectReference: {fileID: 409948906}
     - target: {fileID: 6517686061769116559, guid: f32fc89859f16ec49bc857008a5ed9c5, type: 3}
       propertyPath: m_Name
       value: SK_Sheep_white (21)
@@ -2922,6 +2946,10 @@ PrefabInstance:
     serializedVersion: 3
     m_TransformParent: {fileID: 220014903}
     m_Modifications:
+    - target: {fileID: 684393063537770578, guid: 89340c34cb7cd124883d3f31b9835bfd, type: 3}
+      propertyPath: player
+      value: 
+      objectReference: {fileID: 409948906}
     - target: {fileID: 4803590418286029818, guid: 89340c34cb7cd124883d3f31b9835bfd, type: 3}
       propertyPath: m_Name
       value: SK_Sheep_dark (15)
@@ -3108,6 +3136,10 @@ PrefabInstance:
     serializedVersion: 3
     m_TransformParent: {fileID: 220014903}
     m_Modifications:
+    - target: {fileID: 684393063537770578, guid: 89340c34cb7cd124883d3f31b9835bfd, type: 3}
+      propertyPath: player
+      value: 
+      objectReference: {fileID: 409948906}
     - target: {fileID: 4803590418286029818, guid: 89340c34cb7cd124883d3f31b9835bfd, type: 3}
       propertyPath: m_Name
       value: SK_Sheep_dark (6)
@@ -3170,6 +3202,10 @@ PrefabInstance:
     serializedVersion: 3
     m_TransformParent: {fileID: 220014903}
     m_Modifications:
+    - target: {fileID: 1877831767736680730, guid: f32fc89859f16ec49bc857008a5ed9c5, type: 3}
+      propertyPath: player
+      value: 
+      objectReference: {fileID: 409948906}
     - target: {fileID: 6517686061769116559, guid: f32fc89859f16ec49bc857008a5ed9c5, type: 3}
       propertyPath: m_Name
       value: SK_Sheep_white (9)
@@ -3431,6 +3467,10 @@ PrefabInstance:
     serializedVersion: 3
     m_TransformParent: {fileID: 220014903}
     m_Modifications:
+    - target: {fileID: 1877831767736680730, guid: f32fc89859f16ec49bc857008a5ed9c5, type: 3}
+      propertyPath: player
+      value: 
+      objectReference: {fileID: 409948906}
     - target: {fileID: 6517686061769116559, guid: f32fc89859f16ec49bc857008a5ed9c5, type: 3}
       propertyPath: m_Name
       value: SK_Sheep_white (23)
@@ -4270,6 +4310,10 @@ PrefabInstance:
     serializedVersion: 3
     m_TransformParent: {fileID: 220014903}
     m_Modifications:
+    - target: {fileID: 1877831767736680730, guid: f32fc89859f16ec49bc857008a5ed9c5, type: 3}
+      propertyPath: player
+      value: 
+      objectReference: {fileID: 409948906}
     - target: {fileID: 6517686061769116559, guid: f32fc89859f16ec49bc857008a5ed9c5, type: 3}
       propertyPath: m_Name
       value: SK_Sheep_white (34)
@@ -4597,6 +4641,10 @@ PrefabInstance:
     serializedVersion: 3
     m_TransformParent: {fileID: 220014903}
     m_Modifications:
+    - target: {fileID: 1877831767736680730, guid: f32fc89859f16ec49bc857008a5ed9c5, type: 3}
+      propertyPath: player
+      value: 
+      objectReference: {fileID: 409948906}
     - target: {fileID: 6517686061769116559, guid: f32fc89859f16ec49bc857008a5ed9c5, type: 3}
       propertyPath: m_Name
       value: SK_Sheep_white (5)
@@ -4762,6 +4810,10 @@ PrefabInstance:
     serializedVersion: 3
     m_TransformParent: {fileID: 220014903}
     m_Modifications:
+    - target: {fileID: 684393063537770578, guid: 89340c34cb7cd124883d3f31b9835bfd, type: 3}
+      propertyPath: player
+      value: 
+      objectReference: {fileID: 409948906}
     - target: {fileID: 4803590418286029818, guid: 89340c34cb7cd124883d3f31b9835bfd, type: 3}
       propertyPath: m_Name
       value: SK_Sheep_dark (29)
@@ -5049,6 +5101,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: SK_Sheep_cream (1)
       objectReference: {fileID: 0}
+    - target: {fileID: 7679357242106111862, guid: d4d6ee78313566d4fb5c9a6ce2e66e80, type: 3}
+      propertyPath: player
+      value: 
+      objectReference: {fileID: 409948906}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -5191,6 +5247,10 @@ PrefabInstance:
     serializedVersion: 3
     m_TransformParent: {fileID: 220014903}
     m_Modifications:
+    - target: {fileID: 684393063537770578, guid: 89340c34cb7cd124883d3f31b9835bfd, type: 3}
+      propertyPath: player
+      value: 
+      objectReference: {fileID: 409948906}
     - target: {fileID: 4803590418286029818, guid: 89340c34cb7cd124883d3f31b9835bfd, type: 3}
       propertyPath: m_Name
       value: SK_Sheep_dark (13)
@@ -5426,6 +5486,37 @@ Transform:
   m_CorrespondingSourceObject: {fileID: 4249828961328633286, guid: 6d09f1047ed7fb244a255fa66291cb94, type: 3}
   m_PrefabInstance: {fileID: 304003441}
   m_PrefabAsset: {fileID: 0}
+--- !u!1 &304523851
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 304523852}
+  m_Layer: 0
+  m_Name: FirePoint6
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &304523852
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 304523851}
+  serializedVersion: 2
+  m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
+  m_LocalPosition: {x: -0.0261453, y: -0.16533734, z: 0.4889679}
+  m_LocalScale: {x: 1.3333334, y: 1.1111112, z: 1.3333334}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 409948907}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1001 &306131453
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -5558,6 +5649,10 @@ PrefabInstance:
     serializedVersion: 3
     m_TransformParent: {fileID: 220014903}
     m_Modifications:
+    - target: {fileID: 684393063537770578, guid: 89340c34cb7cd124883d3f31b9835bfd, type: 3}
+      propertyPath: player
+      value: 
+      objectReference: {fileID: 409948906}
     - target: {fileID: 4803590418286029818, guid: 89340c34cb7cd124883d3f31b9835bfd, type: 3}
       propertyPath: m_Name
       value: SK_Sheep_dark (23)
@@ -5887,6 +5982,10 @@ PrefabInstance:
     serializedVersion: 3
     m_TransformParent: {fileID: 220014903}
     m_Modifications:
+    - target: {fileID: 684393063537770578, guid: 89340c34cb7cd124883d3f31b9835bfd, type: 3}
+      propertyPath: player
+      value: 
+      objectReference: {fileID: 409948906}
     - target: {fileID: 4803590418286029818, guid: 89340c34cb7cd124883d3f31b9835bfd, type: 3}
       propertyPath: m_Name
       value: SK_Sheep_dark (16)
@@ -5993,6 +6092,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: SK_Sheep_cream (11)
       objectReference: {fileID: 0}
+    - target: {fileID: 7679357242106111862, guid: d4d6ee78313566d4fb5c9a6ce2e66e80, type: 3}
+      propertyPath: player
+      value: 
+      objectReference: {fileID: 409948906}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -6312,6 +6415,10 @@ PrefabInstance:
     serializedVersion: 3
     m_TransformParent: {fileID: 220014903}
     m_Modifications:
+    - target: {fileID: 684393063537770578, guid: 89340c34cb7cd124883d3f31b9835bfd, type: 3}
+      propertyPath: player
+      value: 
+      objectReference: {fileID: 409948906}
     - target: {fileID: 4803590418286029818, guid: 89340c34cb7cd124883d3f31b9835bfd, type: 3}
       propertyPath: m_Name
       value: SK_Sheep_dark (3)
@@ -6660,6 +6767,10 @@ PrefabInstance:
     serializedVersion: 3
     m_TransformParent: {fileID: 220014903}
     m_Modifications:
+    - target: {fileID: 1877831767736680730, guid: f32fc89859f16ec49bc857008a5ed9c5, type: 3}
+      propertyPath: player
+      value: 
+      objectReference: {fileID: 409948906}
     - target: {fileID: 6517686061769116559, guid: f32fc89859f16ec49bc857008a5ed9c5, type: 3}
       propertyPath: m_Name
       value: SK_Sheep_white (33)
@@ -6957,6 +7068,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: SK_Sheep_cream (15)
       objectReference: {fileID: 0}
+    - target: {fileID: 7679357242106111862, guid: d4d6ee78313566d4fb5c9a6ce2e66e80, type: 3}
+      propertyPath: player
+      value: 
+      objectReference: {fileID: 409948906}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -7032,6 +7147,10 @@ PrefabInstance:
     serializedVersion: 3
     m_TransformParent: {fileID: 220014903}
     m_Modifications:
+    - target: {fileID: 1877831767736680730, guid: f32fc89859f16ec49bc857008a5ed9c5, type: 3}
+      propertyPath: player
+      value: 
+      objectReference: {fileID: 409948906}
     - target: {fileID: 6517686061769116559, guid: f32fc89859f16ec49bc857008a5ed9c5, type: 3}
       propertyPath: m_Name
       value: SK_Sheep_white (28)
@@ -7757,6 +7876,62 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   BulletPrefab: {fileID: 1040467768}
   FirePoint: {fileID: 1761160673}
+--- !u!114 &409948920
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 409948906}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d3f994a4788126f47806783945450aa1, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  BulletPrefab: {fileID: 1040467768}
+  FirePoint: {fileID: 304523852}
+--- !u!114 &409948921
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 409948906}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d3f994a4788126f47806783945450aa1, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  BulletPrefab: {fileID: 1040467768}
+  FirePoint: {fileID: 828577035}
+--- !u!114 &409948922
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 409948906}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d3f994a4788126f47806783945450aa1, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  BulletPrefab: {fileID: 1040467768}
+  FirePoint: {fileID: 1143649531}
+--- !u!114 &409948923
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 409948906}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d3f994a4788126f47806783945450aa1, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  BulletPrefab: {fileID: 1040467768}
+  FirePoint: {fileID: 1473477192}
 --- !u!1001 &414017554
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -8608,6 +8783,10 @@ PrefabInstance:
     serializedVersion: 3
     m_TransformParent: {fileID: 220014903}
     m_Modifications:
+    - target: {fileID: 1877831767736680730, guid: f32fc89859f16ec49bc857008a5ed9c5, type: 3}
+      propertyPath: player
+      value: 
+      objectReference: {fileID: 409948906}
     - target: {fileID: 6517686061769116559, guid: f32fc89859f16ec49bc857008a5ed9c5, type: 3}
       propertyPath: m_Name
       value: SK_Sheep_white (12)
@@ -8670,6 +8849,10 @@ PrefabInstance:
     serializedVersion: 3
     m_TransformParent: {fileID: 220014903}
     m_Modifications:
+    - target: {fileID: 1877831767736680730, guid: f32fc89859f16ec49bc857008a5ed9c5, type: 3}
+      propertyPath: player
+      value: 
+      objectReference: {fileID: 409948906}
     - target: {fileID: 6517686061769116559, guid: f32fc89859f16ec49bc857008a5ed9c5, type: 3}
       propertyPath: m_Name
       value: SK_Sheep_white (29)
@@ -9320,6 +9503,10 @@ PrefabInstance:
     serializedVersion: 3
     m_TransformParent: {fileID: 220014903}
     m_Modifications:
+    - target: {fileID: 684393063537770578, guid: 89340c34cb7cd124883d3f31b9835bfd, type: 3}
+      propertyPath: player
+      value: 
+      objectReference: {fileID: 409948906}
     - target: {fileID: 4803590418286029818, guid: 89340c34cb7cd124883d3f31b9835bfd, type: 3}
       propertyPath: m_Name
       value: SK_Sheep_dark (30)
@@ -9580,6 +9767,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: SK_Sheep_cream (24)
       objectReference: {fileID: 0}
+    - target: {fileID: 7679357242106111862, guid: d4d6ee78313566d4fb5c9a6ce2e66e80, type: 3}
+      propertyPath: player
+      value: 
+      objectReference: {fileID: 409948906}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -9727,6 +9918,10 @@ PrefabInstance:
     serializedVersion: 3
     m_TransformParent: {fileID: 220014903}
     m_Modifications:
+    - target: {fileID: 1877831767736680730, guid: f32fc89859f16ec49bc857008a5ed9c5, type: 3}
+      propertyPath: player
+      value: 
+      objectReference: {fileID: 409948906}
     - target: {fileID: 6517686061769116559, guid: f32fc89859f16ec49bc857008a5ed9c5, type: 3}
       propertyPath: m_Name
       value: SK_Sheep_white (3)
@@ -10262,6 +10457,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: SK_Sheep_cream (22)
       objectReference: {fileID: 0}
+    - target: {fileID: 7679357242106111862, guid: d4d6ee78313566d4fb5c9a6ce2e66e80, type: 3}
+      propertyPath: player
+      value: 
+      objectReference: {fileID: 409948906}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -10626,6 +10825,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: SK_Sheep_cream (14)
       objectReference: {fileID: 0}
+    - target: {fileID: 7679357242106111862, guid: d4d6ee78313566d4fb5c9a6ce2e66e80, type: 3}
+      propertyPath: player
+      value: 
+      objectReference: {fileID: 409948906}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -12354,6 +12557,10 @@ PrefabInstance:
     serializedVersion: 3
     m_TransformParent: {fileID: 220014903}
     m_Modifications:
+    - target: {fileID: 1877831767736680730, guid: f32fc89859f16ec49bc857008a5ed9c5, type: 3}
+      propertyPath: player
+      value: 
+      objectReference: {fileID: 409948906}
     - target: {fileID: 6517686061769116559, guid: f32fc89859f16ec49bc857008a5ed9c5, type: 3}
       propertyPath: m_Name
       value: SK_Sheep_white (1)
@@ -12540,6 +12747,10 @@ PrefabInstance:
     serializedVersion: 3
     m_TransformParent: {fileID: 220014903}
     m_Modifications:
+    - target: {fileID: 684393063537770578, guid: 89340c34cb7cd124883d3f31b9835bfd, type: 3}
+      propertyPath: player
+      value: 
+      objectReference: {fileID: 409948906}
     - target: {fileID: 4803590418286029818, guid: 89340c34cb7cd124883d3f31b9835bfd, type: 3}
       propertyPath: m_Name
       value: SK_Sheep_dark (12)
@@ -13393,6 +13604,10 @@ PrefabInstance:
     serializedVersion: 3
     m_TransformParent: {fileID: 220014903}
     m_Modifications:
+    - target: {fileID: 684393063537770578, guid: 89340c34cb7cd124883d3f31b9835bfd, type: 3}
+      propertyPath: player
+      value: 
+      objectReference: {fileID: 409948906}
     - target: {fileID: 4803590418286029818, guid: 89340c34cb7cd124883d3f31b9835bfd, type: 3}
       propertyPath: m_Name
       value: SK_Sheep_dark (27)
@@ -13636,6 +13851,10 @@ PrefabInstance:
     serializedVersion: 3
     m_TransformParent: {fileID: 220014903}
     m_Modifications:
+    - target: {fileID: 1877831767736680730, guid: f32fc89859f16ec49bc857008a5ed9c5, type: 3}
+      propertyPath: player
+      value: 
+      objectReference: {fileID: 409948906}
     - target: {fileID: 6517686061769116559, guid: f32fc89859f16ec49bc857008a5ed9c5, type: 3}
       propertyPath: m_Name
       value: SK_Sheep_white (19)
@@ -13817,6 +14036,10 @@ PrefabInstance:
     serializedVersion: 3
     m_TransformParent: {fileID: 220014903}
     m_Modifications:
+    - target: {fileID: 1877831767736680730, guid: f32fc89859f16ec49bc857008a5ed9c5, type: 3}
+      propertyPath: player
+      value: 
+      objectReference: {fileID: 409948906}
     - target: {fileID: 6517686061769116559, guid: f32fc89859f16ec49bc857008a5ed9c5, type: 3}
       propertyPath: m_Name
       value: SK_Sheep_white (7)
@@ -15387,6 +15610,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: SK_Sheep_cream (17)
       objectReference: {fileID: 0}
+    - target: {fileID: 7679357242106111862, guid: d4d6ee78313566d4fb5c9a6ce2e66e80, type: 3}
+      propertyPath: player
+      value: 
+      objectReference: {fileID: 409948906}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -15764,6 +15991,10 @@ PrefabInstance:
     serializedVersion: 3
     m_TransformParent: {fileID: 220014903}
     m_Modifications:
+    - target: {fileID: 684393063537770578, guid: 89340c34cb7cd124883d3f31b9835bfd, type: 3}
+      propertyPath: player
+      value: 
+      objectReference: {fileID: 409948906}
     - target: {fileID: 4803590418286029818, guid: 89340c34cb7cd124883d3f31b9835bfd, type: 3}
       propertyPath: m_Name
       value: SK_Sheep_dark (7)
@@ -15888,6 +16119,10 @@ PrefabInstance:
     serializedVersion: 3
     m_TransformParent: {fileID: 220014903}
     m_Modifications:
+    - target: {fileID: 684393063537770578, guid: 89340c34cb7cd124883d3f31b9835bfd, type: 3}
+      propertyPath: player
+      value: 
+      objectReference: {fileID: 409948906}
     - target: {fileID: 4803590418286029818, guid: 89340c34cb7cd124883d3f31b9835bfd, type: 3}
       propertyPath: m_Name
       value: SK_Sheep_dark (33)
@@ -16533,6 +16768,37 @@ Transform:
   m_CorrespondingSourceObject: {fileID: 3959008032928451102, guid: d18be603c12f9784d8fe93db62320530, type: 3}
   m_PrefabInstance: {fileID: 826863701}
   m_PrefabAsset: {fileID: 0}
+--- !u!1 &828577034
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 828577035}
+  m_Layer: 0
+  m_Name: FirePoint5
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &828577035
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 828577034}
+  serializedVersion: 2
+  m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
+  m_LocalPosition: {x: -1.7013334, y: 0.025555426, z: 1.536}
+  m_LocalScale: {x: 1.3333334, y: 1.1111112, z: 1.3333334}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 409948907}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1001 &831414288
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -16541,6 +16807,10 @@ PrefabInstance:
     serializedVersion: 3
     m_TransformParent: {fileID: 220014903}
     m_Modifications:
+    - target: {fileID: 684393063537770578, guid: 89340c34cb7cd124883d3f31b9835bfd, type: 3}
+      propertyPath: player
+      value: 
+      objectReference: {fileID: 409948906}
     - target: {fileID: 4803590418286029818, guid: 89340c34cb7cd124883d3f31b9835bfd, type: 3}
       propertyPath: m_Name
       value: SK_Sheep_dark (5)
@@ -17094,6 +17364,10 @@ PrefabInstance:
     serializedVersion: 3
     m_TransformParent: {fileID: 220014903}
     m_Modifications:
+    - target: {fileID: 684393063537770578, guid: 89340c34cb7cd124883d3f31b9835bfd, type: 3}
+      propertyPath: player
+      value: 
+      objectReference: {fileID: 409948906}
     - target: {fileID: 4803590418286029818, guid: 89340c34cb7cd124883d3f31b9835bfd, type: 3}
       propertyPath: m_Name
       value: SK_Sheep_dark (28)
@@ -17347,6 +17621,10 @@ PrefabInstance:
     serializedVersion: 3
     m_TransformParent: {fileID: 220014903}
     m_Modifications:
+    - target: {fileID: 684393063537770578, guid: 89340c34cb7cd124883d3f31b9835bfd, type: 3}
+      propertyPath: player
+      value: 
+      objectReference: {fileID: 409948906}
     - target: {fileID: 4803590418286029818, guid: 89340c34cb7cd124883d3f31b9835bfd, type: 3}
       propertyPath: m_Name
       value: SK_Sheep_dark (14)
@@ -18077,6 +18355,10 @@ PrefabInstance:
     serializedVersion: 3
     m_TransformParent: {fileID: 220014903}
     m_Modifications:
+    - target: {fileID: 684393063537770578, guid: 89340c34cb7cd124883d3f31b9835bfd, type: 3}
+      propertyPath: player
+      value: 
+      objectReference: {fileID: 409948906}
     - target: {fileID: 4803590418286029818, guid: 89340c34cb7cd124883d3f31b9835bfd, type: 3}
       propertyPath: m_Name
       value: SK_Sheep_dark (8)
@@ -18386,6 +18668,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: SK_Sheep_cream (16)
       objectReference: {fileID: 0}
+    - target: {fileID: 7679357242106111862, guid: d4d6ee78313566d4fb5c9a6ce2e66e80, type: 3}
+      propertyPath: player
+      value: 
+      objectReference: {fileID: 409948906}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -18842,6 +19128,10 @@ PrefabInstance:
     serializedVersion: 3
     m_TransformParent: {fileID: 220014903}
     m_Modifications:
+    - target: {fileID: 684393063537770578, guid: 89340c34cb7cd124883d3f31b9835bfd, type: 3}
+      propertyPath: player
+      value: 
+      objectReference: {fileID: 409948906}
     - target: {fileID: 4803590418286029818, guid: 89340c34cb7cd124883d3f31b9835bfd, type: 3}
       propertyPath: m_Name
       value: SK_Sheep_dark (26)
@@ -19082,23 +19372,6 @@ Transform:
   m_CorrespondingSourceObject: {fileID: 3959008032928451102, guid: d18be603c12f9784d8fe93db62320530, type: 3}
   m_PrefabInstance: {fileID: 937686955}
   m_PrefabAsset: {fileID: 0}
---- !u!1 &937823128 stripped
-GameObject:
-  m_CorrespondingSourceObject: {fileID: 3948236637170917960, guid: fbfc2824681824949be5febfd9bfff09, type: 3}
-  m_PrefabInstance: {fileID: 1089721734}
-  m_PrefabAsset: {fileID: 0}
---- !u!114 &937823132
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 937823128}
-  m_Enabled: 0
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 72295b5f43f7e324b99420e524c4ef01, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
 --- !u!1001 &938458962
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -19365,6 +19638,10 @@ PrefabInstance:
     serializedVersion: 3
     m_TransformParent: {fileID: 220014903}
     m_Modifications:
+    - target: {fileID: 1877831767736680730, guid: f32fc89859f16ec49bc857008a5ed9c5, type: 3}
+      propertyPath: player
+      value: 
+      objectReference: {fileID: 409948906}
     - target: {fileID: 6517686061769116559, guid: f32fc89859f16ec49bc857008a5ed9c5, type: 3}
       propertyPath: m_Name
       value: SK_Sheep_white (8)
@@ -20517,6 +20794,10 @@ PrefabInstance:
     serializedVersion: 3
     m_TransformParent: {fileID: 220014903}
     m_Modifications:
+    - target: {fileID: 1877831767736680730, guid: f32fc89859f16ec49bc857008a5ed9c5, type: 3}
+      propertyPath: player
+      value: 
+      objectReference: {fileID: 409948906}
     - target: {fileID: 6517686061769116559, guid: f32fc89859f16ec49bc857008a5ed9c5, type: 3}
       propertyPath: m_Name
       value: SK_Sheep_white (30)
@@ -21020,6 +21301,10 @@ PrefabInstance:
     serializedVersion: 3
     m_TransformParent: {fileID: 220014903}
     m_Modifications:
+    - target: {fileID: 1877831767736680730, guid: f32fc89859f16ec49bc857008a5ed9c5, type: 3}
+      propertyPath: player
+      value: 
+      objectReference: {fileID: 409948906}
     - target: {fileID: 6517686061769116559, guid: f32fc89859f16ec49bc857008a5ed9c5, type: 3}
       propertyPath: m_Name
       value: SK_Sheep_white (32)
@@ -21530,6 +21815,18 @@ Rigidbody:
   m_Interpolate: 0
   m_Constraints: 0
   m_CollisionDetection: 0
+--- !u!114 &1040467770
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1040467768}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e5de0c6d1af1bc04db64961799a7d0a2, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
 --- !u!1001 &1040509547
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -21917,6 +22214,10 @@ PrefabInstance:
     serializedVersion: 3
     m_TransformParent: {fileID: 220014903}
     m_Modifications:
+    - target: {fileID: 684393063537770578, guid: 89340c34cb7cd124883d3f31b9835bfd, type: 3}
+      propertyPath: player
+      value: 
+      objectReference: {fileID: 409948906}
     - target: {fileID: 4803590418286029818, guid: 89340c34cb7cd124883d3f31b9835bfd, type: 3}
       propertyPath: m_Name
       value: SK_Sheep_dark (19)
@@ -22695,7 +22996,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 4431864057589479666, guid: fbfc2824681824949be5febfd9bfff09, type: 3}
       propertyPath: m_LocalPosition.y
-      value: 2.69
+      value: 0.154
       objectReference: {fileID: 0}
     - target: {fileID: 4431864057589479666, guid: fbfc2824681824949be5febfd9bfff09, type: 3}
       propertyPath: m_LocalPosition.z
@@ -22732,10 +23033,7 @@ PrefabInstance:
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
-    m_AddedComponents:
-    - targetCorrespondingSourceObject: {fileID: 3948236637170917960, guid: fbfc2824681824949be5febfd9bfff09, type: 3}
-      insertIndex: 2
-      addedObject: {fileID: 937823132}
+    m_AddedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: fbfc2824681824949be5febfd9bfff09, type: 3}
 --- !u!1001 &1094497766
 PrefabInstance:
@@ -22745,6 +23043,10 @@ PrefabInstance:
     serializedVersion: 3
     m_TransformParent: {fileID: 220014903}
     m_Modifications:
+    - target: {fileID: 1877831767736680730, guid: f32fc89859f16ec49bc857008a5ed9c5, type: 3}
+      propertyPath: player
+      value: 
+      objectReference: {fileID: 409948906}
     - target: {fileID: 6517686061769116559, guid: f32fc89859f16ec49bc857008a5ed9c5, type: 3}
       propertyPath: m_Name
       value: SK_Sheep_white (18)
@@ -22931,6 +23233,10 @@ PrefabInstance:
     serializedVersion: 3
     m_TransformParent: {fileID: 220014903}
     m_Modifications:
+    - target: {fileID: 1877831767736680730, guid: f32fc89859f16ec49bc857008a5ed9c5, type: 3}
+      propertyPath: player
+      value: 
+      objectReference: {fileID: 409948906}
     - target: {fileID: 6517686061769116559, guid: f32fc89859f16ec49bc857008a5ed9c5, type: 3}
       propertyPath: m_Name
       value: SK_Sheep_white (31)
@@ -23161,6 +23467,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: SK_Sheep_cream (20)
       objectReference: {fileID: 0}
+    - target: {fileID: 7679357242106111862, guid: d4d6ee78313566d4fb5c9a6ce2e66e80, type: 3}
+      propertyPath: player
+      value: 
+      objectReference: {fileID: 409948906}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -23360,6 +23670,10 @@ PrefabInstance:
     serializedVersion: 3
     m_TransformParent: {fileID: 220014903}
     m_Modifications:
+    - target: {fileID: 1877831767736680730, guid: f32fc89859f16ec49bc857008a5ed9c5, type: 3}
+      propertyPath: player
+      value: 
+      objectReference: {fileID: 409948906}
     - target: {fileID: 6517686061769116559, guid: f32fc89859f16ec49bc857008a5ed9c5, type: 3}
       propertyPath: m_Name
       value: SK_Sheep_white (4)
@@ -23901,6 +24215,37 @@ Transform:
   m_CorrespondingSourceObject: {fileID: 6352184942146126214, guid: 47ded181e73460047bae5118c0254d3e, type: 3}
   m_PrefabInstance: {fileID: 1139576352}
   m_PrefabAsset: {fileID: 0}
+--- !u!1 &1143649530
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 1143649531}
+  m_Layer: 0
+  m_Name: FirePoint4
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &1143649531
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1143649530}
+  serializedVersion: 2
+  m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
+  m_LocalPosition: {x: 0.93199986, y: -0.16533734, z: 1.2399998}
+  m_LocalScale: {x: 1.3333334, y: 1.1111112, z: 1.3333334}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 409948907}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1001 &1143793133
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -24782,6 +25127,18 @@ PrefabInstance:
     - targetCorrespondingSourceObject: {fileID: 29811324, guid: 2553cec8fdb3eb643bbe9f2ec880c472, type: 3}
       insertIndex: -1
       addedObject: {fileID: 1761160673}
+    - targetCorrespondingSourceObject: {fileID: 29811324, guid: 2553cec8fdb3eb643bbe9f2ec880c472, type: 3}
+      insertIndex: -1
+      addedObject: {fileID: 1473477192}
+    - targetCorrespondingSourceObject: {fileID: 29811324, guid: 2553cec8fdb3eb643bbe9f2ec880c472, type: 3}
+      insertIndex: -1
+      addedObject: {fileID: 1143649531}
+    - targetCorrespondingSourceObject: {fileID: 29811324, guid: 2553cec8fdb3eb643bbe9f2ec880c472, type: 3}
+      insertIndex: -1
+      addedObject: {fileID: 828577035}
+    - targetCorrespondingSourceObject: {fileID: 29811324, guid: 2553cec8fdb3eb643bbe9f2ec880c472, type: 3}
+      insertIndex: -1
+      addedObject: {fileID: 304523852}
     m_AddedComponents:
     - targetCorrespondingSourceObject: {fileID: 1925873226565265906, guid: 2553cec8fdb3eb643bbe9f2ec880c472, type: 3}
       insertIndex: -1
@@ -24804,6 +25161,18 @@ PrefabInstance:
     - targetCorrespondingSourceObject: {fileID: 29811323, guid: 2553cec8fdb3eb643bbe9f2ec880c472, type: 3}
       insertIndex: -1
       addedObject: {fileID: 409948917}
+    - targetCorrespondingSourceObject: {fileID: 29811323, guid: 2553cec8fdb3eb643bbe9f2ec880c472, type: 3}
+      insertIndex: -1
+      addedObject: {fileID: 409948923}
+    - targetCorrespondingSourceObject: {fileID: 29811323, guid: 2553cec8fdb3eb643bbe9f2ec880c472, type: 3}
+      insertIndex: -1
+      addedObject: {fileID: 409948922}
+    - targetCorrespondingSourceObject: {fileID: 29811323, guid: 2553cec8fdb3eb643bbe9f2ec880c472, type: 3}
+      insertIndex: -1
+      addedObject: {fileID: 409948921}
+    - targetCorrespondingSourceObject: {fileID: 29811323, guid: 2553cec8fdb3eb643bbe9f2ec880c472, type: 3}
+      insertIndex: -1
+      addedObject: {fileID: 409948920}
   m_SourcePrefab: {fileID: 100100000, guid: 2553cec8fdb3eb643bbe9f2ec880c472, type: 3}
 --- !u!1001 &1177648748
 PrefabInstance:
@@ -24976,6 +25345,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: SK_Sheep_cream (4)
       objectReference: {fileID: 0}
+    - target: {fileID: 7679357242106111862, guid: d4d6ee78313566d4fb5c9a6ce2e66e80, type: 3}
+      propertyPath: player
+      value: 
+      objectReference: {fileID: 409948906}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -24994,6 +25367,10 @@ PrefabInstance:
     serializedVersion: 3
     m_TransformParent: {fileID: 220014903}
     m_Modifications:
+    - target: {fileID: 1877831767736680730, guid: f32fc89859f16ec49bc857008a5ed9c5, type: 3}
+      propertyPath: player
+      value: 
+      objectReference: {fileID: 409948906}
     - target: {fileID: 6517686061769116559, guid: f32fc89859f16ec49bc857008a5ed9c5, type: 3}
       propertyPath: m_Name
       value: SK_Sheep_white (15)
@@ -25242,6 +25619,10 @@ PrefabInstance:
     serializedVersion: 3
     m_TransformParent: {fileID: 220014903}
     m_Modifications:
+    - target: {fileID: 684393063537770578, guid: 89340c34cb7cd124883d3f31b9835bfd, type: 3}
+      propertyPath: player
+      value: 
+      objectReference: {fileID: 409948906}
     - target: {fileID: 4803590418286029818, guid: 89340c34cb7cd124883d3f31b9835bfd, type: 3}
       propertyPath: m_Name
       value: SK_Sheep_dark (21)
@@ -25490,6 +25871,10 @@ PrefabInstance:
     serializedVersion: 3
     m_TransformParent: {fileID: 220014903}
     m_Modifications:
+    - target: {fileID: 684393063537770578, guid: 89340c34cb7cd124883d3f31b9835bfd, type: 3}
+      propertyPath: player
+      value: 
+      objectReference: {fileID: 409948906}
     - target: {fileID: 4803590418286029818, guid: 89340c34cb7cd124883d3f31b9835bfd, type: 3}
       propertyPath: m_Name
       value: SK_Sheep_dark (10)
@@ -26826,6 +27211,10 @@ PrefabInstance:
     serializedVersion: 3
     m_TransformParent: {fileID: 220014903}
     m_Modifications:
+    - target: {fileID: 684393063537770578, guid: 89340c34cb7cd124883d3f31b9835bfd, type: 3}
+      propertyPath: player
+      value: 
+      objectReference: {fileID: 409948906}
     - target: {fileID: 4803590418286029818, guid: 89340c34cb7cd124883d3f31b9835bfd, type: 3}
       propertyPath: m_Name
       value: SK_Sheep_dark (4)
@@ -26888,6 +27277,10 @@ PrefabInstance:
     serializedVersion: 3
     m_TransformParent: {fileID: 220014903}
     m_Modifications:
+    - target: {fileID: 684393063537770578, guid: 89340c34cb7cd124883d3f31b9835bfd, type: 3}
+      propertyPath: player
+      value: 
+      objectReference: {fileID: 409948906}
     - target: {fileID: 4803590418286029818, guid: 89340c34cb7cd124883d3f31b9835bfd, type: 3}
       propertyPath: m_Name
       value: SK_Sheep_dark (1)
@@ -27056,6 +27449,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: SK_Sheep_cream (8)
       objectReference: {fileID: 0}
+    - target: {fileID: 7679357242106111862, guid: d4d6ee78313566d4fb5c9a6ce2e66e80, type: 3}
+      propertyPath: player
+      value: 
+      objectReference: {fileID: 409948906}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -27197,6 +27594,10 @@ PrefabInstance:
     serializedVersion: 3
     m_TransformParent: {fileID: 220014903}
     m_Modifications:
+    - target: {fileID: 684393063537770578, guid: 89340c34cb7cd124883d3f31b9835bfd, type: 3}
+      propertyPath: player
+      value: 
+      objectReference: {fileID: 409948906}
     - target: {fileID: 4803590418286029818, guid: 89340c34cb7cd124883d3f31b9835bfd, type: 3}
       propertyPath: m_Name
       value: SK_Sheep_dark (25)
@@ -28420,6 +28821,10 @@ PrefabInstance:
     serializedVersion: 3
     m_TransformParent: {fileID: 220014903}
     m_Modifications:
+    - target: {fileID: 1877831767736680730, guid: f32fc89859f16ec49bc857008a5ed9c5, type: 3}
+      propertyPath: player
+      value: 
+      objectReference: {fileID: 409948906}
     - target: {fileID: 6517686061769116559, guid: f32fc89859f16ec49bc857008a5ed9c5, type: 3}
       propertyPath: m_Name
       value: SK_Sheep_white (14)
@@ -29300,6 +29705,10 @@ PrefabInstance:
     serializedVersion: 3
     m_TransformParent: {fileID: 220014903}
     m_Modifications:
+    - target: {fileID: 1877831767736680730, guid: f32fc89859f16ec49bc857008a5ed9c5, type: 3}
+      propertyPath: player
+      value: 
+      objectReference: {fileID: 409948906}
     - target: {fileID: 6517686061769116559, guid: f32fc89859f16ec49bc857008a5ed9c5, type: 3}
       propertyPath: m_Name
       value: SK_Sheep_white (10)
@@ -29669,6 +30078,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: SK_Sheep_cream (19)
       objectReference: {fileID: 0}
+    - target: {fileID: 7679357242106111862, guid: d4d6ee78313566d4fb5c9a6ce2e66e80, type: 3}
+      propertyPath: player
+      value: 
+      objectReference: {fileID: 409948906}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -29855,6 +30268,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: SK_Sheep_cream (23)
       objectReference: {fileID: 0}
+    - target: {fileID: 7679357242106111862, guid: d4d6ee78313566d4fb5c9a6ce2e66e80, type: 3}
+      propertyPath: player
+      value: 
+      objectReference: {fileID: 409948906}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -31358,6 +31775,37 @@ Transform:
   m_CorrespondingSourceObject: {fileID: 6625984507259324429, guid: ccebfc242bed46749a5dcef87dd83423, type: 3}
   m_PrefabInstance: {fileID: 1473337793}
   m_PrefabAsset: {fileID: 0}
+--- !u!1 &1473477191
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 1473477192}
+  m_Layer: 0
+  m_Name: FirePoint3
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &1473477192
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1473477191}
+  serializedVersion: 2
+  m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
+  m_LocalPosition: {x: -0.22266643, y: 0.55, z: 1.0306664}
+  m_LocalScale: {x: 1.3333334, y: 1.1111112, z: 1.3333334}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 409948907}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1001 &1473740707
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -31791,6 +32239,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: SK_Sheep_cream (21)
       objectReference: {fileID: 0}
+    - target: {fileID: 7679357242106111862, guid: d4d6ee78313566d4fb5c9a6ce2e66e80, type: 3}
+      propertyPath: player
+      value: 
+      objectReference: {fileID: 409948906}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -31814,6 +32266,10 @@ PrefabInstance:
     serializedVersion: 3
     m_TransformParent: {fileID: 220014903}
     m_Modifications:
+    - target: {fileID: 1877831767736680730, guid: f32fc89859f16ec49bc857008a5ed9c5, type: 3}
+      propertyPath: player
+      value: 
+      objectReference: {fileID: 409948906}
     - target: {fileID: 6517686061769116559, guid: f32fc89859f16ec49bc857008a5ed9c5, type: 3}
       propertyPath: m_Name
       value: SK_Sheep_white (16)
@@ -31938,6 +32394,10 @@ PrefabInstance:
     serializedVersion: 3
     m_TransformParent: {fileID: 220014903}
     m_Modifications:
+    - target: {fileID: 684393063537770578, guid: 89340c34cb7cd124883d3f31b9835bfd, type: 3}
+      propertyPath: player
+      value: 
+      objectReference: {fileID: 409948906}
     - target: {fileID: 4803590418286029818, guid: 89340c34cb7cd124883d3f31b9835bfd, type: 3}
       propertyPath: m_Name
       value: SK_Sheep_dark (31)
@@ -32000,6 +32460,10 @@ PrefabInstance:
     serializedVersion: 3
     m_TransformParent: {fileID: 220014903}
     m_Modifications:
+    - target: {fileID: 1877831767736680730, guid: f32fc89859f16ec49bc857008a5ed9c5, type: 3}
+      propertyPath: player
+      value: 
+      objectReference: {fileID: 409948906}
     - target: {fileID: 6517686061769116559, guid: f32fc89859f16ec49bc857008a5ed9c5, type: 3}
       propertyPath: m_Name
       value: SK_Sheep_white (24)
@@ -32186,6 +32650,10 @@ PrefabInstance:
     serializedVersion: 3
     m_TransformParent: {fileID: 220014903}
     m_Modifications:
+    - target: {fileID: 684393063537770578, guid: 89340c34cb7cd124883d3f31b9835bfd, type: 3}
+      propertyPath: player
+      value: 
+      objectReference: {fileID: 409948906}
     - target: {fileID: 4803590418286029818, guid: 89340c34cb7cd124883d3f31b9835bfd, type: 3}
       propertyPath: m_Name
       value: SK_Sheep_dark (22)
@@ -32517,6 +32985,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: SK_Sheep_cream (2)
       objectReference: {fileID: 0}
+    - target: {fileID: 7679357242106111862, guid: d4d6ee78313566d4fb5c9a6ce2e66e80, type: 3}
+      propertyPath: player
+      value: 
+      objectReference: {fileID: 409948906}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -34040,6 +34512,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: SK_Sheep_cream (3)
       objectReference: {fileID: 0}
+    - target: {fileID: 7679357242106111862, guid: d4d6ee78313566d4fb5c9a6ce2e66e80, type: 3}
+      propertyPath: player
+      value: 
+      objectReference: {fileID: 409948906}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -34430,6 +34906,10 @@ PrefabInstance:
     serializedVersion: 3
     m_TransformParent: {fileID: 220014903}
     m_Modifications:
+    - target: {fileID: 684393063537770578, guid: 89340c34cb7cd124883d3f31b9835bfd, type: 3}
+      propertyPath: player
+      value: 
+      objectReference: {fileID: 409948906}
     - target: {fileID: 4803590418286029818, guid: 89340c34cb7cd124883d3f31b9835bfd, type: 3}
       propertyPath: m_Name
       value: SK_Sheep_dark (20)
@@ -35634,6 +36114,10 @@ PrefabInstance:
     serializedVersion: 3
     m_TransformParent: {fileID: 220014903}
     m_Modifications:
+    - target: {fileID: 1877831767736680730, guid: f32fc89859f16ec49bc857008a5ed9c5, type: 3}
+      propertyPath: player
+      value: 
+      objectReference: {fileID: 409948906}
     - target: {fileID: 6517686061769116559, guid: f32fc89859f16ec49bc857008a5ed9c5, type: 3}
       propertyPath: m_Name
       value: SK_Sheep_white (25)
@@ -36613,6 +37097,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: SK_Sheep_cream (12)
       objectReference: {fileID: 0}
+    - target: {fileID: 7679357242106111862, guid: d4d6ee78313566d4fb5c9a6ce2e66e80, type: 3}
+      propertyPath: player
+      value: 
+      objectReference: {fileID: 409948906}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -37057,6 +37545,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: SK_Sheep_cream (13)
       objectReference: {fileID: 0}
+    - target: {fileID: 7679357242106111862, guid: d4d6ee78313566d4fb5c9a6ce2e66e80, type: 3}
+      propertyPath: player
+      value: 
+      objectReference: {fileID: 409948906}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -37075,6 +37567,10 @@ PrefabInstance:
     serializedVersion: 3
     m_TransformParent: {fileID: 220014903}
     m_Modifications:
+    - target: {fileID: 1877831767736680730, guid: f32fc89859f16ec49bc857008a5ed9c5, type: 3}
+      propertyPath: player
+      value: 
+      objectReference: {fileID: 409948906}
     - target: {fileID: 6517686061769116559, guid: f32fc89859f16ec49bc857008a5ed9c5, type: 3}
       propertyPath: m_Name
       value: SK_Sheep_white (13)
@@ -37181,6 +37677,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: SK_Sheep_cream (7)
       objectReference: {fileID: 0}
+    - target: {fileID: 7679357242106111862, guid: d4d6ee78313566d4fb5c9a6ce2e66e80, type: 3}
+      propertyPath: player
+      value: 
+      objectReference: {fileID: 409948906}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -37633,6 +38133,10 @@ PrefabInstance:
     serializedVersion: 3
     m_TransformParent: {fileID: 220014903}
     m_Modifications:
+    - target: {fileID: 684393063537770578, guid: 89340c34cb7cd124883d3f31b9835bfd, type: 3}
+      propertyPath: player
+      value: 
+      objectReference: {fileID: 409948906}
     - target: {fileID: 4803590418286029818, guid: 89340c34cb7cd124883d3f31b9835bfd, type: 3}
       propertyPath: m_Name
       value: SK_Sheep_dark (32)
@@ -37788,6 +38292,10 @@ PrefabInstance:
     serializedVersion: 3
     m_TransformParent: {fileID: 220014903}
     m_Modifications:
+    - target: {fileID: 1877831767736680730, guid: f32fc89859f16ec49bc857008a5ed9c5, type: 3}
+      propertyPath: player
+      value: 
+      objectReference: {fileID: 409948906}
     - target: {fileID: 6517686061769116559, guid: f32fc89859f16ec49bc857008a5ed9c5, type: 3}
       propertyPath: m_Name
       value: SK_Sheep_white (27)
@@ -37930,6 +38438,10 @@ PrefabInstance:
     serializedVersion: 3
     m_TransformParent: {fileID: 220014903}
     m_Modifications:
+    - target: {fileID: 684393063537770578, guid: 89340c34cb7cd124883d3f31b9835bfd, type: 3}
+      propertyPath: player
+      value: 
+      objectReference: {fileID: 409948906}
     - target: {fileID: 4803590418286029818, guid: 89340c34cb7cd124883d3f31b9835bfd, type: 3}
       propertyPath: m_Name
       value: SK_Sheep_dark (9)
@@ -40305,6 +40817,10 @@ PrefabInstance:
     serializedVersion: 3
     m_TransformParent: {fileID: 220014903}
     m_Modifications:
+    - target: {fileID: 684393063537770578, guid: 89340c34cb7cd124883d3f31b9835bfd, type: 3}
+      propertyPath: player
+      value: 
+      objectReference: {fileID: 409948906}
     - target: {fileID: 4803590418286029818, guid: 89340c34cb7cd124883d3f31b9835bfd, type: 3}
       propertyPath: m_Name
       value: SK_Sheep_dark (2)
@@ -40783,6 +41299,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: SK_Sheep_cream (10)
       objectReference: {fileID: 0}
+    - target: {fileID: 7679357242106111862, guid: d4d6ee78313566d4fb5c9a6ce2e66e80, type: 3}
+      propertyPath: player
+      value: 
+      objectReference: {fileID: 409948906}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -41393,6 +41913,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: SK_Sheep_cream (9)
       objectReference: {fileID: 0}
+    - target: {fileID: 7679357242106111862, guid: d4d6ee78313566d4fb5c9a6ce2e66e80, type: 3}
+      propertyPath: player
+      value: 
+      objectReference: {fileID: 409948906}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -41849,6 +42373,10 @@ PrefabInstance:
       propertyPath: player
       value: 
       objectReference: {fileID: 409948906}
+    - target: {fileID: 5810417750372983846, guid: f32fc89859f16ec49bc857008a5ed9c5, type: 3}
+      propertyPath: m_Constraints
+      value: 4
+      objectReference: {fileID: 0}
     - target: {fileID: 6517686061769116558, guid: f32fc89859f16ec49bc857008a5ed9c5, type: 3}
       propertyPath: m_Enabled
       value: 0
@@ -41895,6 +42423,10 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 6517686061769116560, guid: f32fc89859f16ec49bc857008a5ed9c5, type: 3}
       propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6517686061769116561, guid: f32fc89859f16ec49bc857008a5ed9c5, type: 3}
+      propertyPath: m_Enabled
       value: 0
       objectReference: {fileID: 0}
     m_RemovedComponents: []
@@ -42215,6 +42747,10 @@ PrefabInstance:
     serializedVersion: 3
     m_TransformParent: {fileID: 220014903}
     m_Modifications:
+    - target: {fileID: 684393063537770578, guid: 89340c34cb7cd124883d3f31b9835bfd, type: 3}
+      propertyPath: player
+      value: 
+      objectReference: {fileID: 409948906}
     - target: {fileID: 4803590418286029818, guid: 89340c34cb7cd124883d3f31b9835bfd, type: 3}
       propertyPath: m_Name
       value: SK_Sheep_dark (34)
@@ -42401,6 +42937,10 @@ PrefabInstance:
     serializedVersion: 3
     m_TransformParent: {fileID: 220014903}
     m_Modifications:
+    - target: {fileID: 684393063537770578, guid: 89340c34cb7cd124883d3f31b9835bfd, type: 3}
+      propertyPath: player
+      value: 
+      objectReference: {fileID: 409948906}
     - target: {fileID: 4803590418286029818, guid: 89340c34cb7cd124883d3f31b9835bfd, type: 3}
       propertyPath: m_Name
       value: SK_Sheep_dark (17)
@@ -42776,6 +43316,10 @@ PrefabInstance:
     serializedVersion: 3
     m_TransformParent: {fileID: 220014903}
     m_Modifications:
+    - target: {fileID: 684393063537770578, guid: 89340c34cb7cd124883d3f31b9835bfd, type: 3}
+      propertyPath: player
+      value: 
+      objectReference: {fileID: 409948906}
     - target: {fileID: 4803590418286029818, guid: 89340c34cb7cd124883d3f31b9835bfd, type: 3}
       propertyPath: m_Name
       value: SK_Sheep_dark (11)
@@ -42962,6 +43506,10 @@ PrefabInstance:
     serializedVersion: 3
     m_TransformParent: {fileID: 220014903}
     m_Modifications:
+    - target: {fileID: 684393063537770578, guid: 89340c34cb7cd124883d3f31b9835bfd, type: 3}
+      propertyPath: player
+      value: 
+      objectReference: {fileID: 409948906}
     - target: {fileID: 4803590418286029818, guid: 89340c34cb7cd124883d3f31b9835bfd, type: 3}
       propertyPath: m_Name
       value: SK_Sheep_dark (18)
@@ -43293,6 +43841,10 @@ PrefabInstance:
     serializedVersion: 3
     m_TransformParent: {fileID: 220014903}
     m_Modifications:
+    - target: {fileID: 684393063537770578, guid: 89340c34cb7cd124883d3f31b9835bfd, type: 3}
+      propertyPath: player
+      value: 
+      objectReference: {fileID: 409948906}
     - target: {fileID: 4803590418286029818, guid: 89340c34cb7cd124883d3f31b9835bfd, type: 3}
       propertyPath: m_Name
       value: SK_Sheep_dark (24)
@@ -43854,6 +44406,10 @@ PrefabInstance:
     serializedVersion: 3
     m_TransformParent: {fileID: 220014903}
     m_Modifications:
+    - target: {fileID: 1877831767736680730, guid: f32fc89859f16ec49bc857008a5ed9c5, type: 3}
+      propertyPath: player
+      value: 
+      objectReference: {fileID: 409948906}
     - target: {fileID: 6517686061769116559, guid: f32fc89859f16ec49bc857008a5ed9c5, type: 3}
       propertyPath: m_Name
       value: SK_Sheep_white (20)
@@ -44216,6 +44772,10 @@ PrefabInstance:
     serializedVersion: 3
     m_TransformParent: {fileID: 220014903}
     m_Modifications:
+    - target: {fileID: 1877831767736680730, guid: f32fc89859f16ec49bc857008a5ed9c5, type: 3}
+      propertyPath: player
+      value: 
+      objectReference: {fileID: 409948906}
     - target: {fileID: 6517686061769116559, guid: f32fc89859f16ec49bc857008a5ed9c5, type: 3}
       propertyPath: m_Name
       value: SK_Sheep_white (26)
@@ -45093,6 +45653,10 @@ PrefabInstance:
     serializedVersion: 3
     m_TransformParent: {fileID: 220014903}
     m_Modifications:
+    - target: {fileID: 1877831767736680730, guid: f32fc89859f16ec49bc857008a5ed9c5, type: 3}
+      propertyPath: player
+      value: 
+      objectReference: {fileID: 409948906}
     - target: {fileID: 6517686061769116559, guid: f32fc89859f16ec49bc857008a5ed9c5, type: 3}
       propertyPath: m_Name
       value: SK_Sheep_white (17)
@@ -45452,6 +46016,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: SK_Sheep_cream (6)
       objectReference: {fileID: 0}
+    - target: {fileID: 7679357242106111862, guid: d4d6ee78313566d4fb5c9a6ce2e66e80, type: 3}
+      propertyPath: player
+      value: 
+      objectReference: {fileID: 409948906}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -45521,6 +46089,9 @@ PrefabInstance:
     - targetCorrespondingSourceObject: {fileID: 5350290017299903210, guid: 1fb8e30b9e8452f4ab0eaf6f3fade288, type: 3}
       insertIndex: -1
       addedObject: {fileID: 1040467769}
+    - targetCorrespondingSourceObject: {fileID: 5350290017299903210, guid: 1fb8e30b9e8452f4ab0eaf6f3fade288, type: 3}
+      insertIndex: -1
+      addedObject: {fileID: 1040467770}
   m_SourcePrefab: {fileID: 100100000, guid: 1fb8e30b9e8452f4ab0eaf6f3fade288, type: 3}
 --- !u!1660057539 &9223372036854775807
 SceneRoots:

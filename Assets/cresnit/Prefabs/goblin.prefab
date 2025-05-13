@@ -116,7 +116,9 @@ MonoBehaviour:
   AttackRange: 1
   AttackCooldown: 1
   CooldownTimer: 0
-  Speed: 5
+  Speed: 2
+  health: 0
+  maxhealth: 3
 --- !u!65 &8463727149472708338
 BoxCollider:
   m_ObjectHideFlags: 0

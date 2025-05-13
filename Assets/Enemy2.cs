@@ -1,3 +1,4 @@
+using System;
 using UnityEngine;
 // Enemy AI
 public class Enemy2 : MonoBehaviour
@@ -17,12 +18,20 @@ public class Enemy2 : MonoBehaviour
     private bool isInCooldown = false;
     
     private Vector3 HomeLocation;
+
+//Enemy health and death
+
+    public static event Action<Enemy2> OnEnemyKilled;
+    [SerializeField] float health, maxhealth = 3f;
+
     
     //Start is called before the first frame update
     void Start()
     {
         HomeLocation = transform.position;
         CooldownTimer = AttackCooldown;
+
+        health = maxhealth;
     }
     
     //update is called once per frame 
@@ -67,4 +76,15 @@ public class Enemy2 : MonoBehaviour
     }
 }
 private void Attack(/* Int Damage*/){}
+
+public void TakeDamage(float damageAmount)
+{
+    health -= damageAmount; // 3 - 2 -1 Enemy has died
+    
+    if(health <= 0)
+    {
+        Destroy(gameObject);
+        OnEnemyKilled?.Invoke(this);
+    }
+}
 }

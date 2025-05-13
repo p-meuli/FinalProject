@@ -3416,6 +3416,8 @@ MonoBehaviour:
   AttackCooldown: 1
   CooldownTimer: 0
   Speed: 5
+  health: 0
+  maxhealth: 3
 --- !u!1 &4803590418325253606
 GameObject:
   m_ObjectHideFlags: 0

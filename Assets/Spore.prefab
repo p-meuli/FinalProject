@@ -14,7 +14,7 @@ GameObject:
   - component: {fileID: 1474477263899742888}
   m_Layer: 0
   m_Name: Spore
-  m_TagString: Untagged
+  m_TagString: Spore
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0

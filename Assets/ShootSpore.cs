@@ -9,24 +9,27 @@ public class ShootSpore : MonoBehaviour
     public Transform FirePoint;
     void Update()
     {
+        /*
         if(Input.GetKeyDown(KeyCode.J)) 
         {
             GameObject bullet = Instantiate(BulletPrefab, FirePoint.position, Quaternion.identity);
             bullet.GetComponent<Rigidbody>().AddForce(transform.right * 1000);
         }
-
+*/
         if(Input.GetKeyDown(KeyCode.J)) 
         {
             GameObject bullet = Instantiate(BulletPrefab, FirePoint.position, Quaternion.identity);
             bullet.GetComponent<Rigidbody>().AddForce(transform.forward * 1000);
                 
         }
+       
+       /*
          if(Input.GetKeyDown(KeyCode.J)) 
          {
             GameObject bullet = Instantiate(BulletPrefab, FirePoint.position, Quaternion.identity);
              bullet.GetComponent<Rigidbody>().AddForce(transform.up * 1000);
          }
-
+        */
         
 
 

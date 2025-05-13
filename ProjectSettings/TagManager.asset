@@ -10,6 +10,7 @@ TagManager:
   - forest-sign
   - sheepy
   - boomer
+  - Spore
   layers:
   - Default
   - TransparentFX
