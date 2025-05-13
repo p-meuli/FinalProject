@@ -14,7 +14,6 @@ GameObject:
   - component: {fileID: 788642608053195311}
   - component: {fileID: 7240364845083134584}
   - component: {fileID: 3391085938931552149}
-  - component: {fileID: 2077080552934361857}
   m_Layer: 0
   m_Name: Spore
   m_TagString: Bullet
@@ -150,17 +149,3 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 7195b472ef27e5b4a9f879631da77ac7, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
---- !u!114 &2077080552934361857
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 4066222532888853484}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 6ae21a0e3bd0df844990e0bdc56a80da, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  projectileSpeed: 10
-  maxprojectileDistance: 15
