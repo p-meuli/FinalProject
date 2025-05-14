@@ -35,15 +35,14 @@ public class boom : MonoBehaviour
                 rig.AddExplosionForce(explosionForce, transform.position, radius, 2F, ForceMode.Impulse);
                 //ApplyDamage(rig.gameObject.GetComponent<Health>()); if you have a script for player health.
             } 
-            if (col.transform.tag == "Player")
+            if (col.transform.tag == "Player" || col.transform.tag == "Spore")
             {
-               
-               var healthy =  col.gameObject.GetComponent<HealthSystemForDummies>();
-               healthy.DecreaseCurrentHealthBy(50f);
+             Instantiate(explosionEffect, transform.position, transform.rotation);
+            Destroy(gameObject);  
+             
 
             }
         }
-        Instantiate(explosionEffect, transform.position, transform.rotation);
-        Destroy(gameObject);
+        
     }
 }
