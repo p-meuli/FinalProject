@@ -10383,7 +10383,6 @@ MonoBehaviour:
   info4: (and around them too!)
   info5: "Unauthorized possession of gems is a captial offense against the crown,
     and is enforced by goblin mercinaries. \n"
-  info6: -- Jerome Sporewell
   forestText: {fileID: 893280566}
 --- !u!114 &409948913
 MonoBehaviour:
@@ -46503,7 +46502,6 @@ MonoBehaviour:
   info4: (and around them too!)
   info5: "Unauthorized possession of gems is a captial offense against the crown,
     and is enforced by goblin mercinaries. \n"
-  info6: -- Jerome Sporewell
   forestText: {fileID: 893280566}
 --- !u!65 &1771699590
 BoxCollider:
@@ -54263,7 +54261,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 434698, guid: 9f34afb08d4d48c4b860e0b7634ce5b4, type: 3}
       propertyPath: m_LocalPosition.x
-      value: -9.79
+      value: -10.01
       objectReference: {fileID: 0}
     - target: {fileID: 434698, guid: 9f34afb08d4d48c4b860e0b7634ce5b4, type: 3}
       propertyPath: m_LocalPosition.y
@@ -54304,8 +54302,37 @@ PrefabInstance:
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
-    m_AddedComponents: []
+    m_AddedComponents:
+    - targetCorrespondingSourceObject: {fileID: 113940, guid: 9f34afb08d4d48c4b860e0b7634ce5b4, type: 3}
+      insertIndex: -1
+      addedObject: {fileID: 2080505782}
   m_SourcePrefab: {fileID: 100100000, guid: 9f34afb08d4d48c4b860e0b7634ce5b4, type: 3}
+--- !u!1 &2080505781 stripped
+GameObject:
+  m_CorrespondingSourceObject: {fileID: 113940, guid: 9f34afb08d4d48c4b860e0b7634ce5b4, type: 3}
+  m_PrefabInstance: {fileID: 2080505780}
+  m_PrefabAsset: {fileID: 0}
+--- !u!65 &2080505782
+BoxCollider:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2080505781}
+  m_Material: {fileID: 0}
+  m_IncludeLayers:
+    serializedVersion: 2
+    m_Bits: 0
+  m_ExcludeLayers:
+    serializedVersion: 2
+    m_Bits: 0
+  m_LayerOverridePriority: 0
+  m_IsTrigger: 0
+  m_ProvidesContacts: 0
+  m_Enabled: 1
+  serializedVersion: 3
+  m_Size: {x: 1.4998102, y: 1.7516875, z: 2.0957055}
+  m_Center: {x: -0.24990511, y: 0.37584376, z: 0.54785275}
 --- !u!4 &2080560648 stripped
 Transform:
   m_CorrespondingSourceObject: {fileID: 4431864057589479666, guid: fbfc2824681824949be5febfd9bfff09, type: 3}
